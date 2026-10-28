@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Calc-t2-test
+Bundle-SymbolicName: Calc-t2-test
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: calc_t2_test.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ Calc-t2;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: Calc.t2.test
+Bundle-ActivationPolicy: lazy
